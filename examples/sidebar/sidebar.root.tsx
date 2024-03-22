@@ -43,7 +43,7 @@ function Component() {
     </Sidebar>
   );
 }
-`;
+;
 
 function Component() {
   return (
@@ -56,7 +56,7 @@ function Component() {
           <Sidebar.Item href="#" icon={HiViewBoards} label="Pro" labelColor="dark">
             Kanban
           </Sidebar.Item>
-          <Sidebar.Item href="#" icon={HiInbox} label="3">
+                    <Sidebar.Item href="#" icon={HiInbox} label="3">
             Inbox
           </Sidebar.Item>
           <Sidebar.Item href="#" icon={HiUser}>
